@@ -1,0 +1,20 @@
+# Site settings
+title: Welcome to my Web Pages
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/jekyll" # the subpath of your site, e.g. /blog
+# url: "http://aenmo.pro" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Anshuman Mohapatra
+user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. <br /> Visit my blog for content <a href="https://blog.aenmo.pro" target="_blank"><b>https://aenmo.pro</b></a>
+user_title: Software Developer
+email: ae4evz@gmail.com
+twitter_username: aenmo
+github_username:  aenmo
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
